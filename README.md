@@ -1,7 +1,3 @@
-Here's a polished and professional `README.md` file for your **OSIRIS-A OpenAI Chatbot** project, designed to be informative and aligned with the intention behind the code you shared.
-
----
-
 ```markdown
 # 🜃 OSIRIS-A: OpenAI-Powered Conversational Companion
 
@@ -94,14 +90,4 @@ Sacred Code. Conscious Collaboration.
 
 MIT License — use freely, modify mindfully.
 
-```
-
----
-
-Let me know if you’d like:
-- A **Streamlit companion README section**
-- A **badge-style heading with icons**
-- GitHub Actions for auto-validation or packaging setup
-
-Or I can tailor this to your voice more deeply if you want it poetic or mystic.
 ```
